@@ -11,9 +11,4 @@ fn main() {
 
     dbase::_showdata();
 
-    
-
-
-
-
 }
