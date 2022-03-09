@@ -1,2 +1,2 @@
-# Will try to make a pipeline for this, will try to collect reddit data and then try to make a pipeline for this.
-# Will try to make a pipeline for this, will try to collect twitter data and then try to make a pipeline for this.
+# Will try to make a pipeline for this, will try to collect reddit data and then try to make a pipeline for this
+# Will try to make a pipeline for this, will try to collect twitter data and then try to make a pipeline for this
